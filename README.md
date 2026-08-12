@@ -1,6 +1,7 @@
-## Hi! I'm Jordan (_she/her)_👋
+## Hi! 👋
+I'm Jordan. _(she/her)_
 
-I'm a (soon to be registered) medical physicist, working in the sub-speciality of Radiation Safety and Diagnostic Radiology.
+A (soon to be registered) medical physicist, working in the sub-speciality of Radiation Safety and Diagnostic Radiology.
 Hobby coding projects in my spare time crop up when I get the chance!
 
 ---
